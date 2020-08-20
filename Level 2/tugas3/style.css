@@ -1,0 +1,18 @@
+* { 
+    margin: 0;
+}
+
+.jumbotron {
+    background-image: url('ImageBackground.png');
+    
+    background-size: cover;
+    height: 700px;
+}
+
+img {
+    width: 200px;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+}

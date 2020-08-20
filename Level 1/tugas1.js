@@ -1,0 +1,10 @@
+console.log('Citra Kemurnian Lombu');
+console.log(25);
+console.log('Jalan Cidangiang Nomor 29 Bogor Tengah Kota Bogor');
+console.log('Football, Listening Music, Playing Guitar, Playing Games');
+console.log('Universitas Pakuan, Ilmu Komputer');
+console.log('Programmer itu keren');
+console.log('Bahasa Pemrograman : JavaScript, PHP, Python, HTML, CSS, Bootstrap ; GIT');
+console.log('Pernah');
+console.log('Meningkatkan skill, memperluas networking dan juga ingin dimentoring oleh yang ahli di bidangnya');
+console.log('Saya memiliki minat untuk berkarir sebagai programmer, dan saya merasa Arkademy adalah tempat untuk belajar tentang pemrograman yang tepat buat saya');
